@@ -1,0 +1,7 @@
+{
+  "name": "O-via",
+  "description": "An application for Eurovia to monitor and manage water consumption on construction sites, featuring hierarchical data entry, interactive maps, and consumption analysis.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
